@@ -13,7 +13,7 @@ helper.js contains some extra functions that will help with some tasks needed to
 
 # To run this project:
 
-- Clone project repo by running $ git clone git@github.com:username/
+- Clone project repo by running $ git clone https://github.com/Ederfdz/WebdriverIO-Project
 - Open terminal in project directory and run $ npm install
 - Start TripleTen Urban Routes server and copy its address
 - Insert address inside of API_URL variable value in the wdio.conf.js file
